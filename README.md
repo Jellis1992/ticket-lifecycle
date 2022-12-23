@@ -28,25 +28,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+<img src="https://i.imgur.com/u0c3CDO.png"/>
 
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+<img src="https://i.imgur.com/B89R0Vb.png"/>
 
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+<img src="https://i.imgur.com/poo42nd.png"/>
 
-</p>
-<br />
+
+<img src="https://i.imgur.com/qktC37J.png">  
+  
+<img src="https://i.imgur.com/vbOCyDp.png"/>  
+  
+ 
